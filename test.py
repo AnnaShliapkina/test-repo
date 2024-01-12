@@ -1,4 +1,4 @@
 def printer(text):
     print(text)
 
-printer("Hello world!")    
+printer("Hello, world!")    
