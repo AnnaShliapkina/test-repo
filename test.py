@@ -1,4 +1,4 @@
 def printer(text):
     print(text)
-    print("Murtaza")
+    print("Yanina")
 printer("Hello, world!")    
